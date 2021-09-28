@@ -1,0 +1,29 @@
+#container {
+    position: center;
+}
+h2 {
+    color: orangered;
+}
+#increase {
+    background-color: bisque;
+}
+
+#increase:hover {
+    background-color: goldenrod;
+}
+
+#reset {
+    background-color: crimson;
+}
+
+#reset:hover {
+    background-color: cornflowerblue;
+}
+
+#decrease {
+    background-color: chartreuse;
+}
+
+#decrease:hover {
+    background-color: firebrick;
+}
