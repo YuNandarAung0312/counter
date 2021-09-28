@@ -1,5 +1,6 @@
-#container {
+.container {
     position: center;
+    margin: auto
 }
 h2 {
     color: orangered;
